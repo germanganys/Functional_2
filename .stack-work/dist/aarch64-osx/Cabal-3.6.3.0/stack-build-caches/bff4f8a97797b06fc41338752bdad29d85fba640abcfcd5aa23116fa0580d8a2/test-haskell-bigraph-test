@@ -1,0 +1,16 @@
+/Users/germanganys/.ghcup/ghc/9.2.5/lib/ghc-9.2.5/lib/aarch64-osx-ghc-9.2.5/rts-1.0.2/include/ghcversion.h:
+  hash: 0b01480d9e386cfc01bf5430e953ac8a8bb8de1a8e65ea4d8e19bce3c3718005
+? /Users/germanganys/PycharmProjects/Functional_2/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/haskell-bigraph-test/autogen/Paths_haskell_bigraph.hs
+: hash: 0ee652f10980a6aadfe5ac53c8ecade810a9dd9a03dfb273587231c7b8df160d
+? /Users/germanganys/PycharmProjects/Functional_2/.stack-work/dist/aarch64-osx/Cabal-3.6.3.0/build/haskell-bigraph-test/autogen/cabal_macros.h
+: hash: 4032e9e94cfd0925d80d1b016c013174042f20150132ebb5d8d263c1b51160e8
+/Users/germanganys/PycharmProjects/Functional_2/CHANGELOG.md:
+  hash: 4dab165863859a4183cf1c62f2471fad0ae5f935e19c98c7854d62ac4b5cb377
+/Users/germanganys/PycharmProjects/Functional_2/README.md:
+  hash: 2468e78fdb4ac45c24d32ab5b124d4d262d8c0074ec8d526edbd5da59ed2ce34
+/Users/germanganys/PycharmProjects/Functional_2/haskell-bigraph.cabal:
+  hash: 58f28f72285b71ce77f7228c37f30cffe716a60c88cb5e38aa24f55adb931083
+/Users/germanganys/PycharmProjects/Functional_2/package.yaml:
+  hash: bb6d2aebafcce79c45a648213d822a13e68d6e6f905842c22fed3d0a6548f489
+/Users/germanganys/PycharmProjects/Functional_2/test/Spec.hs:
+  hash: 4bc7a1d70dc65ad552067beb7b6dd4ee9c33436e37b27baea6aa2c64d8d357e8
