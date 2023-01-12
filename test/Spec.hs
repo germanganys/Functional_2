@@ -181,7 +181,7 @@ qcTestFmap = QC.testProperty "property based test: Functor" $ \(g :: Graph Int, 
 
 
 tests :: TestTree
-tests = testGroup "Unit tests: Binary Search Tree" 
+tests = testGroup "Unit tests: Bidirectional Graph"
         [ 
             testGroup "Test Insertion" [checkInsertsNode, checkInsertsEdge, checkInsertsEdgeIntegrityChecked],
             testGroup "Test Erasing" [checkEraseNode, checkEraseEdge],
